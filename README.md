@@ -1,2 +1,2 @@
 # Bamazon
-An Amazon-like storefront with the MySQL skills. CLI application
+An Amazon-like storefront with MySQL skills. CLI application
