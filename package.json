@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront with MySQL skills. CLI application",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathyboilek/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathyboilek/Bamazon/issues"
+  },
+  "homepage": "https://github.com/kathyboilek/Bamazon#readme"
+}
